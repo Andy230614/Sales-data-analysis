@@ -1,17 +1,18 @@
 # Sales-data-analysis
 
 # Poject Overview
-This project analyzes a retail sales dataset to identify business.
+This project analyzes a retail Superstore dataset to identify sales performance, regional trends, and profitable product categories. The goal is to extract actionable insights that help improve business decidion-making.
 
 # Tools Used
 Python
 Pandas
 Matplotlib
+Jupyter Notebook
 Power BI(for dashboard)
 
 # Key Questions Answered
-- what is the total revenue?
-- Which region performs the best?
+- what is the total revenue and profits?
+- Which region generates the most sales?
 - Which product categories generate the highest profit?
 - What are the top selling products?
 - What is the monthly sales trend?
@@ -26,3 +27,16 @@ Data/ - dataset
 Notebook/ - analysis notebook
 Images/ - visualizations
 Dashboard/ - Power BI dashboard
+
+# Project workflow
+1. Data Loading
+2. Data Cleaning
+3. Exploratory Data Analysis
+4. Visualization
+5. Business Insights
+
+# Visualizations
+![Sales by Region](Images/sales_by_region.png)
+![Profit by Category](Images/profit_by_category.png)
+![Monthly Sales](Images/monthly_sales.png)
+![Sales by Segement](Images/sales_by_segment.png)
