@@ -28,6 +28,30 @@ Notebook/ - analysis notebook
 Images/ - visualizations
 Dashboard/ - Power BI dashboard
 
+# Dataset
+The dataset used in this project is the Superstore retail dataset, which contains information about customer orders including:
+• Row ID
+• Order ID
+• Order Date
+• Ship Date
+• Ship Mode
+• Customer ID
+• Customer Name
+• Segment
+• Country
+• City
+• State
+• Postal Code
+• Region
+• Product ID
+• Category
+• Sub-Category
+• Product Name
+• Sales
+• Quantity
+• Discount
+• Profit
+
 # Project workflow
 1. Data Loading
 2. Data Cleaning
