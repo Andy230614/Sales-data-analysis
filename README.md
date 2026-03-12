@@ -64,3 +64,5 @@ The dataset used in this project is the Superstore retail dataset, which contain
 ![Profit by Category](Images/profit_by_category.png)
 ![Monthly Sales](Images/monthly_sales.png)
 ![Sales by Segement](Images/sales_by_segment.png)
+![Sales Dashboad Preview](Images/sales_dashboard_peview.PNG)
+![Monthly Sales Trend](Images/monthly_sales_trend.PNG)
